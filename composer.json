@@ -1,0 +1,18 @@
+{
+    "name": "naresh/test1",
+    "authors": [
+        {
+            "name": "Naresh Maharjan",
+            "email": "naresh.maharjan@cashrewards.com"
+        }
+    ],
+   "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:NareshMaharzan/test.git"
+        }
+    ],
+    "require": {
+"naresh/test": "1.0.*"
+}
+}
