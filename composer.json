@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-"naresh/test": "1.0.*"
-},"minimum-stability": "dev",
+"naresh/test": "@dev"
+},"minimum-stability": "stable",
 "prefer-stable": true
 }
