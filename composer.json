@@ -14,5 +14,6 @@
     ],
     "require": {
 "naresh/test": "1.0.*"
-}
+},"minimum-stability": "dev",
+"prefer-stable": true
 }
