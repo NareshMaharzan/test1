@@ -6,12 +6,15 @@
             "email": "naresh.maharjan@cashrewards.com"
         }
     ],
-   "repositories": [
+    "repositories": [
         {
             "type": "vcs",
-            "url":  "git@github.com:NareshMaharzan/test.git"
+            "url": "git@github.com:NareshMaharzan/test.git"
         }
     ],
     "require": {
-"naresh/test": "@dev"
-}}
+        "naresh/test": "@dev"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
